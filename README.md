@@ -25,5 +25,5 @@ The `ft_printf` project includes the implementation of a custom `ft_printf` func
 ## Usage
 1. clone the repository
 2. go inside and execute make
-3. you now have the libft_print.a library you can use by including th ft_printf.h file in your programme.
+3. you now have the libftprintf.a library you can use by including th ft_printf.h file in your programme.
 
